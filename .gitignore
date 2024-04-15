@@ -1,0 +1,46 @@
+# Next.js
+.next/
+out/
+
+# Dependencies
+node_modules/
+
+# Build files
+/.next/
+/.vercel/
+/.now/
+/.nuxt/
+/dist/
+/build/
+/out/
+
+# Serverless build artifacts
+/.serverless/
+
+# Testing
+/coverage/
+
+# IDE
+/.vscode/
+/.idea/
+
+# Logs
+*.log
+logs/
+log.txt
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Cache and temporary files
+/.pnp/
+.pnp.js
+.npm/
+.yarn/
+.yarn-integrity
+/.eslintcache
+/.yarn-cache/
+/.cache/
